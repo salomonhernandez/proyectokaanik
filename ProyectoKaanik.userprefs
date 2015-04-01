@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AccionCerrar.js">
+    <Files>
+      <File FileName="Assets\Scripts\MenuPrincipal.js" Line="26" Column="13" />
+      <File FileName="Assets\Scripts\AccionRegresar.js" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\VentanasEmergentes.js" Line="15" Column="37" />
+      <File FileName="Assets\Scripts\AccionPause.js" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\AccionCerrar.js" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
