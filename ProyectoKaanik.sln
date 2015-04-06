@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{7B54EE24-2349-E490-6F92-EB2CA88A0397}") = "ProyectoKaanik", "Assembly-UnityScript.unityproj", "{664B40A8-17B3-80F3-85E8-3BA6CD53F1D6}"
+Project("{129663BC-2943-74CE-25B2-361A6CA2DFCD}") = "proyectokaanik", "Assembly-UnityScript.unityproj", "{B5EDF5CF-5865-D90E-6194-AFE3637FF1F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{664B40A8-17B3-80F3-85E8-3BA6CD53F1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{664B40A8-17B3-80F3-85E8-3BA6CD53F1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{664B40A8-17B3-80F3-85E8-3BA6CD53F1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{664B40A8-17B3-80F3-85E8-3BA6CD53F1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EDF5CF-5865-D90E-6194-AFE3637FF1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EDF5CF-5865-D90E-6194-AFE3637FF1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EDF5CF-5865-D90E-6194-AFE3637FF1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EDF5CF-5865-D90E-6194-AFE3637FF1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																	GlobalSection(MonoDevelopProperties) = preSolution
+																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
